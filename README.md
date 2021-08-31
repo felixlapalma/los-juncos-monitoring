@@ -25,11 +25,11 @@ listamos la evolucion del area de cobertura unicamente.
 
 ![area-km](./products/area-laguna-los-juncos.jpg)
 
-Los resultados son en [km²]. La linea de referencia se corresponde a una medicion aproximada del "espejo" de la Laguna utilizando Google Earth.
+Los resultados son en [km²]. La linea de referencia se corresponde a una medición aproximada del "espejo" de la Laguna utilizando Google Earth.
 
 #### Evolucion Temporal Desglosada en Mes y Años
 
-Evolucion temporal del area (esta vez en hectareas), pero desglosando por año y mes lo que permite cierto ciclado y la disminucion de la cobertura para los ultimos años.
+Evolucion temporal del area (esta vez en hectareas), pero desglosando por año y mes lo que permite observar cierto ciclado y la disminucion de la cobertura para los ultimos años.
 
 ![area-desglosada](./products/area-laguna-los-juncos-hectareas-evolucion-mes.jpg)
 
