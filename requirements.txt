@@ -1,0 +1,17 @@
+rasterio
+pandas
+shapely
+geopandas
+rasterstats
+sentinelhub
+jupyterlab
+matplotlib
+earthpy
+google-cloud-storage
+tqdm
+gsutil
+dask[complete]
+lxml
+seaborn
+pygifsicle
+imageio

@@ -1,0 +1,19 @@
+{
+    "MAX_CLOUD_COVER": 80,
+    "MAX_CLOUD_COVER_ROI": 30, 
+    "BASE_PROD": "./products-int/", 
+    "BBOX_PATH": "./data/cardiel-lake.geojson", 
+    "TWEET_PLACE": "Cardiel Lake (Santa Cruz, Argentina)- TCI",
+    "TWEET_IMG_IDX":0, 
+    "TIME_DELTA": 5, 
+    "PATH_ROW": ["231",  "089"],
+    "LANDSAT_FILTERS":["*_L1TP_", "*_T1"],
+    "LANDSAT_BANDS":["B1","B2","B3","B4","B5"],
+    "TWEET_CITE":"@ARGENTINAIGN, #Landsat8 #LakeMonitoring",
+    "TWEEPY_CRED_CFG":"../.tweepy.json",
+    "CLEAN_IMAGES":true,
+    "TWEET_CITE_SENTINEL":"@ARGENTINAIGN, #Sentinel2, #LakeMonitoring",
+    "TILE":["19","F","CF"],
+    "SENTINEL2_BANDS":["B02","B03","B04","B08","B11"],
+    "SENTINEL2_FILTERS":["*_R010_*"]
+}
