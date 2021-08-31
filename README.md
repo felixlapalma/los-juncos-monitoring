@@ -13,7 +13,7 @@ La laguna se encuentra cercana a Dina Huapi (reactangulo negro).
 Se trabajó con un conjunto de imágenes (300) descargadas de Landsat 5 y Landsat 8, correspondientes al periodo 1985-2021.
 Sin embargo de este set parecen faltar los años 1988 a 1997.
 
-![años-imagenes](./products/images-by-year.png)
+![años-imagenes](./products/images-by-year.jpg)
 
 
 ### Evolución
